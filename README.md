@@ -1,1 +1,1 @@
-# App link :- [https://salary-predictor-app-tejashri-del098.streamlit.app/]([[url](https://salary-predictor-app-tejashri-del098.streamlit.app/)](https://salary-predictor-app-tejashri-del098.streamlit.app/))
+# App link :- [https://salary-predictor-app-tejashri-del098.streamlit.app/](url)

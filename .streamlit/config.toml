@@ -1,0 +1,27 @@
+# .streamlit/config.toml
+
+# Theming options for your Streamlit app
+[theme]
+primaryColor="#f63366"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#f0f2f6"
+textColor="#262730"
+font="sans serif"
+
+# Server configuration
+[server]
+# The port the server will listen on.
+# On Streamlit Cloud, this is handled automatically.
+port = 8501
+
+# Enable Cross-Origin Resource Sharing (CORS)
+# This is useful if you want your app to be embedded in other websites.
+enableCORS = true
+
+# Browser configuration
+[browser]
+# Don't show the server address in the browser.
+serverAddress = ""
+
+# Don't open a new browser tab on startup.
+gatherUsageStats = false
